@@ -19,4 +19,4 @@ The US Office of Foreign Asset Control maintains a list of ‘sanctioned’ Bitc
 U.S. Treasury. Specially designated nationals list of the us office of foreign asset control. https://www.treasury.gov/ofac/downloads/sanctions/1.0/sdn_advanced.xml.
 0xB10C, Michael Neale, and Yahiheb. https://github.com/0xB10C/ofac-sanctioned-digital-currency-addresses?tab=readme-ov-file
 
-Due to the size of the dataset, the data is hosted on [www.kaggle.com/datasets/gregorywilder/combined-bitcoin-wallet-classification-dataset](https://www.kaggle.com/datasets/gregorywilder/bitcoin-wallet-classification-public-dataset)
+Due to the size of the Wallet Classification dataset, the data is hosted on [www.kaggle.com/datasets/gregorywilder/combined-bitcoin-wallet-classification-dataset](https://www.kaggle.com/datasets/gregorywilder/bitcoin-wallet-classification-public-dataset)
