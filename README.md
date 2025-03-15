@@ -1,4 +1,4 @@
-Classification of 43,621,232 Bitcoin Wallet addresses into 14 categories (following the defined by BABD, cited below):
+Classification of 43,621,232 Bitcoin Wallet addresses into 14 categories (following the classifications defined by BABD, cited below):
 (1) Blackmail, (2) Cyber-Security Service, (3) Darknet Market, (4) Centralized Exchange, (5) P2P Financial Infrastructure Service, (6) P2P Financial Service, (7) Gambling, (8) Government Criminal Blocklist, (9) Money Laundering, (10) Ponzi Scheme, (11) Mining Pool, (12) Tumbler, (13) Individual Wallets, and (14) Unknown Service.
 
 This database was made by combining info from four separate sources:
